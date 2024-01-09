@@ -6,7 +6,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-drinkgalaxy/drinkgalaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+깃허브 관리하기 테스트
