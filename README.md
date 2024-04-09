@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=이현진의%20깃허브에%오신%걸%환영합니다&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=이현진의%20&fontSize=50)
 <br>
 <br>
 아직 많이 부족하시만 더 나아지기 위해 열심히 공부하고 있습니다. 감사합니다. 🍀
