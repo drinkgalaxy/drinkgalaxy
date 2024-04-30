@@ -26,5 +26,4 @@
     </div> 
 </div>
 
-[![Solved.ac
-drinkgalaxy](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac/profile/drinkgalaxy](http://mazassumnida.wtf/api/v2/generate_badge?boj={drinkgalaxy})](https://solved.ac/{drinkgalaxy})
