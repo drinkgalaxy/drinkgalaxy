@@ -25,5 +25,3 @@
         /> 
     </div> 
 </div>
-
-[![Solved.ac/profile/drinkgalaxy](http://mazassumnida.wtf/api/v2/generate_badge?boj={drinkgalaxy})](https://solved.ac/{drinkgalaxy})
