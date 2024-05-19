@@ -23,6 +23,6 @@
     <div align="center"> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drinkgalaxy&layout=compact&bg_color=60,ffffff,ffffff&title_color=4e558d&text_color=4e558d"
         />
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=drinkgalaxy)](https://solved.ac/drinkgalaxy/)
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=drinkgalaxy">
     </div> 
 </div>
