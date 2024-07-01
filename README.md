@@ -3,7 +3,7 @@
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 백엔드 개발자 이현진입니다. 아직 많이 부족하지만 매일 더 나아지기 위해 열심히 공부하고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 백엔드 개발자 이현진입니다. 매일 더 나아지기 위해 열심히 공부하고 있습니다. </div> 
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Stacks </h2> <br> 
