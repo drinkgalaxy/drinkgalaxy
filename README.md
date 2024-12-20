@@ -2,11 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87a9ed,100:67a8fe&height=180&text=HyunJin's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=35" />
 </div>
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🙂 Introduction </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 백엔드 공부 중입니다. 매일 더 나아지려고 노력합니다. </div> 
 </div>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Stacks </h2> <br> 
     <div align="center"> 
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white">
