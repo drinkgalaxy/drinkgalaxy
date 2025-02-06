@@ -23,7 +23,9 @@
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     </div>
 </div>
-<div align="center">
+<div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ Stats</h2>  
+  <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=drinkgalaxy&hide=stars,contribs&count_private=true&show_icons=true&&theme=default">
+  </div>    
 </div>
