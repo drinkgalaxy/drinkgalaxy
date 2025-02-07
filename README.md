@@ -1,6 +1,10 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🙂 Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 백엔드 공부 중입니다. 매일 더 나아지려고 노력합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        - Java와 SpringBoot 백엔드 웹 개발 공부중입니다.
+        - 클라우드에도 관심이 있습니다.
+    
+    </div> 
 </div>
 <br>
 <div style="text-align: left;">
