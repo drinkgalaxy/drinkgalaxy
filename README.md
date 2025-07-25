@@ -6,13 +6,6 @@
 </div>
 <br>
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ Stats</h2>  
-  <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=drinkgalaxy&hide=stars,contribs&count_private=true&show_icons=true&&theme=default">
-  </div>    
-</div>
-<br>
-<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Stacks </h2> <br> 
     <div align="center"> 
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
